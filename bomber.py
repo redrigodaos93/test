@@ -24,7 +24,7 @@ W='\033[0m'
 # If You Wanna Take Credits For This Code, Please Look Yourself Again
 
 country_codes = {
-    '93': 'AF',
+    '670': 'TL',
     '355': 'AL',
     '213': 'DZ',
     '376': 'AD',
